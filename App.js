@@ -134,7 +134,7 @@ setWeight(count)
   <Text>{weight}</Text>
 </View>
 <View>
-  <Text style = {{fontSize: 15, fontWeight: "bold"}}>Years</Text>
+  <Text style = {{fontSize: 15, fontWeight: "bold"}}>Age</Text>
   <Text>{age}</Text>
 </View>
      </View>
