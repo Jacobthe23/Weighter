@@ -96,7 +96,7 @@ setWeight(count)
 <TextInput placeholder = "Enter your name"  style = {{marginHorizontal: '2%'}} value = {name} onChangeText = {text =>setName(text)}/>
 
 <View style = {styles.buttons}>
-      <Button title="Choose date" onPress={() => setOpen(true)} />
+      <Button title="Date of Birth" onPress={() => setOpen(true)} />
       <DatePicker
        display="inline"
         modal
